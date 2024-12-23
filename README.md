@@ -1,4 +1,4 @@
-# MachineHack.The-Great-Indian-Hiring-Hackathon-2024
+## MachineHack.The-Great-Indian-Hiring-Hackathon-2024
 
  StreetML: Cityscape Traffic Volume Prognostication
 
@@ -49,6 +49,7 @@ v [Future updates will include results and performance metrics]
 ✔ numpy
 
 ✔ seaborn
+
 ✔ matplotlib
 
 [More details and documentation to be added as the project progresses]
