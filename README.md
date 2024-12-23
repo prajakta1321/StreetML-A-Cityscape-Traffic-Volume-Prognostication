@@ -28,7 +28,9 @@ A regression-based machine learning project focused on predicting urban traffic 
 ```
 
 ## ✅ Status
+
 🚧 Work in Progress 
+
 ✔ Actively developing and optimizing models
 
 ✔ Testing various feature engineering approaches
