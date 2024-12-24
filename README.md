@@ -16,17 +16,6 @@ A regression-based machine learning project focused on predicting urban traffic 
 
 ✔ Higher R² values indicate better model performance
 
-## ✅ Project Structure
-```
-├── Notebooks/
-│   └── Multiple iterations of development  
-├── Data/
-│   ├── Train.csv
-│   └── Test.csv
-└── Submissions/
-    └── Multiple submission versions tracking progress
-```
-
 ## ✅ Status
 
 🚧 Work in Progress 
