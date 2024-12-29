@@ -41,4 +41,20 @@ v [Future updates will include results and performance metrics]
 
 ✔ matplotlib
 
-[More details and documentation to be added as the project progresses]
+DATASET OVERVIEW :
+
+![image](https://github.com/user-attachments/assets/058ac80f-f5ba-44bd-954d-4d7af8584088)
+
+FEATURE ENGINEERING :
+
+![image](https://github.com/user-attachments/assets/b32f03a1-0c21-4486-8878-e60739ecaa48)
+
+NEW FEATURES :
+
+![image](https://github.com/user-attachments/assets/59dc8985-8a66-41ac-978f-5e52079b2dc1)
+
+![image](https://github.com/user-attachments/assets/8a316b05-58eb-4fba-a821-c0e34ab1a509)
+
+SHAP VISUALIZATION : 
+
+![image](https://github.com/user-attachments/assets/2a69b41a-5299-481b-b8e8-3c7b40ff0011)
