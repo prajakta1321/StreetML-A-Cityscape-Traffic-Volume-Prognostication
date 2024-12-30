@@ -58,3 +58,8 @@ v [Future updates will include results and performance metrics]
 # SHAP VISUALIZATION : 
 
 ![image](https://github.com/user-attachments/assets/2a69b41a-5299-481b-b8e8-3c7b40ff0011)
+
+# algorithm poerformance :
+
+![image](https://github.com/user-attachments/assets/d659d672-861f-4058-873e-ce462f5fe6ff)
+
